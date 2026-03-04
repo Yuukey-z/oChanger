@@ -1,0 +1,18 @@
+"       _________ .__                                          
+  ____ \_   ___ \|  |__ _____    ____    ____   ___________   
+ /  _ \/    \  \/|  |  \\__  \  /    \  / ___\_/ __ \_  __ \  
+(  <_> )     \___|   Y  \/ __ \|   |  \/ /_/  >  ___/|  | \/  
+ \____/ \______  /___|  (____  /___|  /\___  / \___  >__| /\  
+               \/     \/     \/     \//_____/      \/     \/  " "" #made with love by kayzhng
+
+
+# Fireball
+speed-multiplier: 1.5
+
+# TNT
+fuse-ticks: 40
+
+# World Restrictions
+disabled-worlds:
+  - world
+  - lobby
