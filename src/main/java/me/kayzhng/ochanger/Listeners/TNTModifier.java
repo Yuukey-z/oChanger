@@ -1,4 +1,6 @@
 package me.kayzhng.ochanger.Listeners;
 
-public class TNTModifier {
+import org.bukkit.event.Listener;
+
+public class TNTModifier implements Listener {
 }
